@@ -23,7 +23,7 @@
 ## 2. 🛠️ Skills and Interests
 
 ### 📁 Evidence
-- [Insert links to skills assessments, certificates, or screenshots]
+- 
 
 ### ✍️ Reflection (STAR Technique)
 **S:** I completed various self-assessment tools to identify my core skills and interests.  
@@ -36,7 +36,7 @@
 ## 3. 🧠 Personality Assessment
 
 ### 📁 Evidence
-- [Insert your personality test results or a screenshot]
+- https://raw.githubusercontent.com/217275524/Portfolio/e8829e1afae05cd80db8fe289a1508010d5b743d/Screenshot%202025-05-23%20152319.png
 
 ### ✍️ Reflection (STAR Technique)
 **S:** I took the MBTI personality test as part of the work readiness program.  
