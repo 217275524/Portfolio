@@ -78,4 +78,3 @@ This digital portfolio helped me reflect on my journey through the work readines
 
 ---
 
-> _“Growth begins when we start to reflect on our experiences and shape our future through action.”_ – Unknown
