@@ -1,57 +1,81 @@
-# Portfolio
 # 🌟 Work Readiness E-Portfolio
-**Name:** Nokuthula Ndlovu
+
+**Name:** Nokuthula Ndlovu  
 **Course:** Project Presentation  
-**Instructor:** [Prima Inderlal]  
+**Instructor:** Prima Inderlal  
 **Date:** 23 May 2025  
 
 ---
 
-## 🗂️ 1. Collect
-This section includes artefacts I gathered during my work readiness journey.
+## 1. 💼 Career Counselling
 
-### 📄 Documents and Artefacts
-- [CV Document](./documents/Pilar_CV.pdf)
-- [Presentation Video](https://youtu.be/example-presentation)
-- [Group Project Screenshot](./images/group_project.png)
-- [Reflection Journal](./documents/reflection_journal.md)
-- [PowerPoint Slides](./documents/soft_skills_presentation.pdf)
-- [Concept Map on Workplace Ethics](./images/workplace_ethics_map.jpg)
+### 📁 Evidence
+- [Insert link to notes, documents, or recordings from your career counselling session]
 
----
-
-## ✅ 2. Select
-Below are some select artefacts that best reflect my learning and development:
-
-- **CV Document** – Highlights my education and personal accomplishments, and improved formatting and language after feedback.
-- **Presentation Video** – Demonstrates improved confidence in speaking in front of an audience.
-- **Group Project Screenshot** – Illustrates teamwork, group work, and critical thinking.
-- **Reflection Journal** – Records my growing knowledge of professional behavior and workplace expectations.
+### ✍️ Reflection (STAR Technique)
+**S – Situation:** During my career counselling session, I was uncertain about which IT career path to follow.  
+**T – Task:** I needed to identify a career focus that matched my personal and academic strengths.  
+**A – Action:** I consulted with the career advisor, completed a career interest survey, and explored job descriptions.  
+**R – Result:** I discovered a strong interest in cloud engineering, which I’m now pursuing as a specialization.
 
 ---
 
-## 🧠 3. Reflect
-> *"Progress is the result of reflection. Through this training, I have become more self-aware, confident, and prepared for the workplace."*
+## 2. 🛠️ Skills and Interests
 
-### 🔍 Key Learnings:
-- **Communication Skills:** Presentations made me more articulate and calm under pressure.
-- **Team Collaboration:** Group work projects taught me how to listen, delegate, and support others. .
-- **Professionalism:** Preparing and editing my CV made me better aware of what employers look for .
-- **Self-Development:** Regular reflection allowed me to track progress and set new goals.
+### 📁 Evidence
+- [Insert links to skills assessments, certificates, or screenshots]
 
----
-
-## 🔗 4. Connect
-### 💡 Overall Insights:
-- My artefacts are connected by the theme of **growth through experience and feedback**.
-- From the first CV draft to the final presentation, I’ve improved in presenting myself professionally.
-- Team activities and reflections show consistent growth in **adaptability, empathy, and initiative**.
-
-### 🌐 Final Summary:
-This e-portfolio showcases how my participation in the Work Readiness Training helped me evolve into a more confident, employable, and professional version of myself. The collected and selected artefacts, combined with my reflections, clearly illustrate my readiness for the next stage of my career journey.
+### ✍️ Reflection (STAR Technique)
+**S:** I completed various self-assessment tools to identify my core skills and interests.  
+**T:** I aimed to align my strongest skills with potential IT career options.  
+**A:** I used platforms like SkillsYouNeed and reviewed peer feedback.  
+**R:** I found that I have strong problem-solving and communication skills, making me well-suited for roles in network administration and DevOps.
 
 ---
 
-### 📬 Contact Info
-**Email:** [217275524@mycput.ac.za]  
-**GitHub Profile:** [https://github.com/yourusername](https://github.com/yourusername)
+## 3. 🧠 Personality Assessment
+
+### 📁 Evidence
+- [Insert your personality test results or a screenshot]
+
+### ✍️ Reflection (STAR Technique)
+**S:** I took the MBTI personality test as part of the work readiness program.  
+**T:** I needed to understand how my personality type affects my working style.  
+**A:** I analyzed the results and reflected on my past group project experiences.  
+**R:** I learned that my personality type (e.g., INTJ) aligns with strategic planning roles and independent work environments.
+
+---
+
+## 4. 📝 Create a CV
+
+### 📁 Evidence
+- [Link to your CV PDF or DOCX uploaded in the repo]
+
+### ✍️ Reflection (STAR Technique)
+**S:** My previous CV was out-of-date and wasn't showcasing my recent experience and abilities.  
+**T:** I needed to create a professional CV suitable for IT roles.  
+**A:**  I used a modern CV template, included key projects and achievements, and ensured it was ATS-friendly.  
+**R:** I now have a clean, concise CV ready to use for job applications and internships.
+
+---
+
+## 5. 📬 CV Submission
+
+### 📁 Evidence
+- [Upload or link to proof of submission (screenshot, email, or portal submission)]
+
+### ✍️ Reflection (STAR Technique)
+**S:**  I was requested to send my CV as a simulated job application. 
+**T:** I needed to ensure the document was meeting all the requirements and was being submitted within time.  
+**A:** I cross-verified formatting, uploaded the CV on the respective portal, and submitted on time.  
+**R:** The project passed through, and I received positive feedback on clarity and formatting.
+
+---
+
+## ✅ Final Reflection: Connecting Everything
+
+This digital portfolio helped me reflect on my journey through the work readiness program. Each part — from career counseling to resume building — was built on the other, helping me understand my dreams, strengths, and working self. I am more confident in entering the IT field and continuing to grow.
+
+---
+
+> _“Growth begins when we start to reflect on our experiences and shape our future through action.”_ – Unknown
