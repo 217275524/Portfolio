@@ -49,7 +49,7 @@
 ## 4. 📝 Create a CV
 
 ### 📁 Evidence
-- [Link to your CV PDF or DOCX uploaded in the repo]
+- https://github.com/217275524/Portfolio/blob/main/N.Ndlovu.cv%20%20(1).pdf
 
 ### ✍️ Reflection (STAR Technique)
 **S:** My previous CV was out-of-date and wasn't showcasing my recent experience and abilities.  
